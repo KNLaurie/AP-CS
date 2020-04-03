@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=AnnualFuelUse
+comment0.text=\r\n\ Write\ a\ program\ to\ project\ your\ annual\ fuel\ usage\ based\ on\ at\ least\ three\r\n\ \ fill\ ups\ of\ your\ car\ (or\ your\ family\ car).\ \r\n\r\n\ @author\ Kaitlyn\ L.\r\n\ @version\ 12/28/2019\r\n
+comment1.params=sMiless\ eMiless\ galsUsed\ pricePerGallons\ carTypes\ dayss
+comment1.target=AnnualFuelUse(int[],\ int[],\ double[],\ double[],\ java.lang.String,\ int[])
+comment10.params=
+comment10.target=double\ calcProjGalUsed()
+comment11.params=
+comment11.target=void\ printData()
+comment2.params=i
+comment2.target=void\ calcMPG(int)
+comment3.params=i
+comment3.target=void\ calcDistance(int)
+comment4.params=i
+comment4.target=void\ calcGPM(int)
+comment5.params=i
+comment5.target=void\ calcCost(int)
+comment6.params=i
+comment6.target=void\ distValueTest(int)
+comment7.params=i
+comment7.target=void\ mpgValueTest(int)
+comment8.params=i
+comment8.target=void\ priceValueTest(int)
+comment9.params=i
+comment9.target=void\ assignValues(int)
+numComments=12

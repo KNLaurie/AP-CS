@@ -1,0 +1,1 @@
+- At first pi would only be 0 and I realized it was because the darts and hit counter variables were integers

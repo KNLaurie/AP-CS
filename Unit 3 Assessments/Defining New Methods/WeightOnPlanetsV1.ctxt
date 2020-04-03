@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=WeightOnPlanetsV1
+comment0.text=\r\n\ a\ program\ that\ calculates\ your\ weight\ on\ each\ planet\ in\ the\ solar\r\n\ system.\ \r\n\r\n\ @author\ K.\ Laurie\r\n\ @version\ 12/16/2019\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

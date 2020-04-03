@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CO2FootprintV1
+comment0.text=\r\n\ program\ that\ calculates\ the\ amount\ of\ carbon\ dioxide\ emitted\ for\r\neach\ gallon\ of\ gas\ consumed.\ \r\n\r\n\ @author\ K.\ Laurie\r\n\ @version\ 1/14/2020\r\n
+comment1.params=gal
+comment1.target=CO2FootprintV1(double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CO2FootprintV1\r\n
+comment2.params=
+comment2.target=void\ calcTons()
+comment2.text=\r\n\ method\ to\ calculate\ CO2\ emitted\ in\ tons\r\n\ @param\ galUsed\ gallons\ used\r\n
+comment3.params=
+comment3.target=void\ convertTonstoPounds()
+comment3.text=\r\n\ method\ to\ convert\ tons\ of\ CO2\ emitted\ to\ pounds\ and\ assign\ to\ poundsCO2\r\n@param\ tonsCO2\ tons\ of\ CO2\ emitted\r\n
+comment4.params=
+comment4.target=double\ getTonsCO2()
+comment4.text=\r\n\ Accessor\ method\ to\ return\ tonsCO2\r\n\ @param\ tonsCO2\ CO2\ emitted\ in\ tons\r\n\ @return\ CO2\ emitted\ in\ tons\r\n
+comment5.params=
+comment5.target=double\ getPoundsCO2()
+comment5.text=\r\n\ Accessor\ method\ to\ return\ CO2\ emitted\ in\ pounds\r\n\ @param\ poundsCO2\ CO2\ emitted\ in\ pounds\r\n\ @return\ CO2\ emitted\ in\ pounds\r\n
+numComments=6

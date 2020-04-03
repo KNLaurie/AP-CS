@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=co2FromElectricity
+comment1.params=numMonths\ bulbs
+comment1.target=co2FromElectricity(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ co2FromElectricity\r\n
+comment2.params=payments
+comment2.target=void\ addPayments(double[])
+comment2.text=\r\n\ Set\ monthly\ payments\ to\ array\ list\r\n\r\n\ @param\ payments\:\ payment\ required\ each\ month\r\n
+comment3.params=killowatts
+comment3.target=void\ addKillowatts(int[])
+comment3.text=\r\n\ Set\ monthly\ killowatt\ usage\ to\ array\ list\r\n\r\n\ @param\ killowatts\:\ killwatt\ hour\ usage\ each\ month\r\n
+comment4.params=
+comment4.target=double\ calcAvgPayment()
+comment4.text=\ calculate\ average\ monthly\ electricity\ bill\ and\ return\ value(no\ parameters)\r\n\r\n@return\ average\ monthly\ payment\r\n
+comment5.params=
+comment5.target=void\ calcAvgKillowatts()
+comment5.text=\ calculate\ average\ monthly\ killowatt\ usage(no\ parameters)\r\n\r\n@return\ average\ KWH\r\n
+comment6.params=
+comment6.target=double\ calcPricePerKW()
+comment6.text=\r\n\ calculate\ average\ price\ per\ killowatt\ and\ return\ value(no\ parameter)\r\n\r\n@return\ average\ price\ per\ killowat\r\n
+comment7.params=
+comment7.target=void\ calcEmmissions()
+comment7.text=\r\n\ Calculate\ yearly\ CO2\ emmissions\ from\ electricity\ (no\ parameters)\r\n\ \r\n\ @return\ yearly\ electricity\ CO2\ emmissions\r\n
+comment8.params=
+comment8.target=void\ calcReduction()
+comment8.text=\r\n\ calculate\ waste\ reduction\ from\ switching\ to\ 25\ watt\ bulbs\r\n\ @param\ number\ of\ lightbulbs\r\n\ \r\n
+numComments=9

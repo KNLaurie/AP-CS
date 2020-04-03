@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PointsOnACircleV1
+comment0.text=\r\n\ a\ program\ to\ calculate\ the\ (x,\ y)\ \r\n\ coordinates\ of\ points\ on\ a\ circle\ of\ radius\ 1.0.\ \r\n\r\n\ @author\ Kaitlyn\ Laurie\r\n\ @version\ 12/12/2019\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

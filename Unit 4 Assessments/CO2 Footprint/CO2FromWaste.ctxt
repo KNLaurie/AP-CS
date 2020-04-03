@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CO2FromWaste
+comment0.text=\r\n\ Calculate\ waste\ reduction\ from\ recylcling\ in\ a\ household\r\n\r\n\ @author\ K.\ Laurie\r\n\ @version\ 1/25/2020\r\n
+comment1.params=peopleNum\ paperr\ plasticc\ glasss\ canss
+comment1.target=CO2FromWaste(int,\ boolean,\ boolean,\ boolean,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CO2FromWaste\r\n
+comment2.params=
+comment2.target=void\ calcGrossWaste()
+comment2.text=\r\n\ calculate\ aveage\ waste\ of\ a\ household\ based\ off\ of\ the\ number\ of\ people\ before\ reductions\r\n\r\n
+comment3.params=
+comment3.target=void\ calcWasteReduction()
+comment3.text=\ \r\ncalculate\ the\ waste\ reduction\ based\ of\ recylcing\ habits\ of\ household\r\n\r\n
+comment4.params=
+comment4.target=void\ calcNetWaste()
+comment4.text=\r\n\ calculate\ net\ waste\ of\ household\r\n\ \r\n
+numComments=5

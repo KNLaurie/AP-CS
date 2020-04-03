@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=MeasurementConverterV3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MeasurementConverterV2_Key\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MeasurementConverterV3()
+comment10.params=gal
+comment10.target=double\ GallonsToLiters(double)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ printPurpose()
+comment3.params=ft
+comment3.target=double\ FeetToMiles(double)
+comment4.params=mi
+comment4.target=double\ MilesToFeet(double)
+comment5.params=mi
+comment5.target=double\ MilesToKilometers(double)
+comment6.params=km
+comment6.target=double\ KilometersToMiles(double)
+comment7.params=lbs
+comment7.target=double\ PoundsToKilograms(double)
+comment8.params=km
+comment8.target=double\ KilogramsToPounds(double)
+comment9.params=l
+comment9.target=double\ LitersToGallons(double)
+numComments=12

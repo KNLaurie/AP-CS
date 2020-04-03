@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AnnualFuelTester
+comment0.text=\r\n\ Write\ a\ program\ to\ project\ your\ annual\ fuel\ usage\ based\ on\ at\ least\ three\r\n\ \ fill\ ups\ of\ your\ car\ (or\ your\ family\ car).\ \r\n\r\n\ @author\ K.\ Laurie\r\n\ @version\ 12/28/2019\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

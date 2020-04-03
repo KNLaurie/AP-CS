@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CO2Footprint
+comment0.text=\r\nCalculate\ entire\ annual\ CO2\ footprint\r\n\r\n\ @author\ K.\ Laurie\r\n\ @version\ 1/27/2020\r\n
+comment1.params=car\ waste\ bulb\ monthlyPayments\ kWh
+comment1.target=void\ calcAnnualWasteReport(AnnualFuelUse,\ CO2FromWaste,\ co2FromElectricity,\ double[],\ int[])
+comment1.text=\r\n\ print\ waste\ and\ waste\ reductions\ from\ all\ classes\r\n\ \r\n\ @param\ car\ object\ from\ AnnualFuelUse\ class\r\n\ \r\n
+comment2.params=
+comment2.target=void\ printHead()
+comment2.text=\r\n\ print\ data\ heading\ (no\ parameters)\r\n
+numComments=3
