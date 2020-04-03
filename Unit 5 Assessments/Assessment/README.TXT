@@ -1,0 +1,1 @@
+- Im not sure if the way I created equals qithout overriding the box's equals was correct but at least it tests properly

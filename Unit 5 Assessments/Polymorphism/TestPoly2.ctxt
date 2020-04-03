@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TestPoly2
+comment0.text=\r\n\ Test\ circle\ class\ and\ subclasses\r\n\r\n\ @author\ K.\ Laurie\r\n\ @version\ 3/16/2020\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=void\ print(Circle)
+numComments=3

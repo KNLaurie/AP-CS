@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MorseCode
+comment1.params=m
+comment1.target=java.lang.String\ converter(java.lang.String)
+comment1.text=\r\n\ convert\ english\ to\ morse\ code\r\n\r\n\ @param\ \ m\ \ \ \ english\ message\r\n\ @return\ \ \ \ m\ converted\ to\ morse\ code\r\n
+comment2.params=a\ target
+comment2.target=int\ find(char[],\ int)
+numComments=3

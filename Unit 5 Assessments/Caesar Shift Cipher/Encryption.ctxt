@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Encryption
+comment0.text=\r\nA\ program\ to\ encode\ a\ message\ using\ the\ Caesar\ Shift\ Cipher\r\n\r\n\ @author\ K.\ Laurie\r\n\ @version\ 3/25/2020\r\n
+comment1.params=in\ shift
+comment1.target=java.lang.String\ encrypt(java.lang.String,\ int)
+comment1.text=\r\nEncrypt\ message\ using\ Caesar\ Cipher\r\n\r\n\ @param\ \ in\ \ \ \ \ English\ meassage\r\n\ @param\ \ shift\ \ How\ many\ positions\ letters\ in\ message\ will\ be\ shifted\ to\ the\ right\r\n\ @return\ \ \ \ \ \ \ \ Encrypted\ version\ of\ in\r\n
+comment2.params=a\ target
+comment2.target=int\ find(char[],\ int)
+comment2.text=\r\n\ find\ index\ of\ character\r\n\ \r\n\ @param\ \ \ a\ \ \ \ \ \ \ \ array\ to\ search\ for\ match\r\n\ @param\ \ \ target\ \ \ item\ to\ find\ index\ of\ in\ array\r\n\ @return\ \ index\ of\ target\ in\ a\r\n
+numComments=3

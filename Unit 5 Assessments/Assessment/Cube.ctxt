@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Cube
+comment0.text=\r\n\ Create\ a\ cube\r\n\r\n\ @author\ K.\ Laurie\r\n\ @version\ 3/13/2020\r\n
+comment1.params=length
+comment1.target=Cube(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cube\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

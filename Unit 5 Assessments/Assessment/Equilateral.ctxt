@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Equilateral
+comment0.text=\r\n\ Create\ an\ equilateral\ triangle.\r\n\r\n\ @author\ K.\ Laurie\r\n\ @version\ 3/12/2020\r\n
+comment1.params=e
+comment1.target=Equilateral(double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Equilateral\r\n
+numComments=2
