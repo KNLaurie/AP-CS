@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Bin
+comment1.params=name
+comment1.target=Bin(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Bin\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Accessor\ method\ -\ name\ of\ bin\r\n\ \r\n\ return\ name\ of\ bin\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getContents()
+comment3.text=\r\n\ Accessor\ method\ -\ arraylist\ of\ contents\r\n\ \r\n\ return\ contents\ of\ bin\r\n
+comment4.params=item
+comment4.target=void\ addItems(BinItem)
+comment4.text=\r\n\ Add\ contents\ to\ bin\r\n\r\n\ @param\ \ item\ -\ type\ of\ shoe\ with\ sku\ and\ quantity\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ get\ Bin\ information\r\n\ \r\n\ return\ bin\ information\ in\ human\ friendly\ way\r\n
+comment6.params=i
+comment6.target=void\ remove(int)
+comment6.text=\r\n\ Remove\ items\ from\ bin\ in\ warehouse\r\n\r\n\ @param\ \ i\ non-negative\ integer\ less\ than\ number\ of\ bin\ items\ in\ bin\r\n
+comment7.params=
+comment7.target=int\ totalQuantity()
+comment7.text=\r\n\ get\ total\ quatities\ of\ all\ bin\ items\r\n\ \r\n\ return\ \ \ sum\ total\ quantities\ of\ all\ bin\ items\r\n
+numComments=8

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Warehouse
+comment1.params=binMax
+comment1.target=Warehouse(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Warehouse\r\n
+comment2.params=binNum
+comment2.target=void\ addBin(int)
+comment2.text=\r\n\ adds\ B(bin\ number)\ to\ warehouse\r\n\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ get\ warehouse\ bin\ information\r\n\ \r\n\ return\ warehouse\ information\r\n
+comment4.params=fw\ q
+comment4.target=void\ receive(Footwear,\ int)
+comment4.text=\r\n\ gather\ everything\ needed\ before\ recieving\ new\ order\r\n\ \r\n\ param\ fw\ -\ Footwear\ object\ specification\r\n\ param\ q\ -\ positive\ quantity\ of\ fw\ unit\r\n\ \r\n
+numComments=5

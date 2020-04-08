@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CalculatePrime
+comment1.params=max
+comment1.target=CalculatePrime(int)
+comment2.params=max
+comment2.target=java.util.ArrayList\ calculate(int)
+comment2.text=\r\n\ calculate\ prime\ numbers\ from\ 0\ -\ max\r\n\ \r\n\ @param\ max\ \ maximum\ number\ in\ array\ list\r\n\ @return\ \ \ \ \ array\ list\ of\ prime\ numbers\ from\ 0\ -\ max\r\n
+comment3.params=
+comment3.target=int\ numOfPrime()
+comment3.text=\r\n\ Calculate\ number\ of\ prime\ numbers\r\n\ \r\n\ @return\ count\ of\ prime\ numbers\ in\ primeNumbers\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getPrime()
+comment4.text=\r\n\ get\ prime\ number\ array\ list\r\n\ \r\n\ @return\ prime\ numbers\ of\ object\r\n
+comment5.params=
+comment5.target=java.lang.Integer\ getCount()
+comment5.text=\r\n\ get\ prime\ number\ array\ list\r\n\ \r\n\ @return\ prime\ numbers\ of\ object\r\n
+numComments=6

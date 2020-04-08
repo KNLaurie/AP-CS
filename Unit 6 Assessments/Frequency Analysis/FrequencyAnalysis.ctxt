@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=FrequencyAnalysis
+comment1.params=file1\ file2
+comment1.target=FrequencyAnalysis(java.lang.String,\ java.lang.String)
+comment2.params=fileName
+comment2.target=int[]\ countFrequency(java.lang.String)
+comment2.text=\r\n\ find\ frequency\ of\ characters\ in\ text\ file\r\n\ \r\n\ @param\ \ filename\ \ name\ of\ text\ file\ \ \r\n
+comment3.params=fileName\ count
+comment3.target=double[]\ avgFrequency(java.lang.String,\ int[])
+comment3.text=\r\n\ Calculate\ average\ frequency\ of\ characters\ and\ write\ to\ file\r\n\ \r\n\ @param\ fileName\ name\ of\ file\ that\ will\ hold\ frequency\ data\r\n
+comment4.params=a\ target
+comment4.target=int\ find(char[],\ int)
+comment4.text=\r\n\ find\ index\ of\ character\r\n\ \r\n\ @param\ \ \ a\ \ \ \ \ \ \ \ array\ to\ search\ for\ match\r\n\ @param\ \ \ target\ \ \ item\ to\ find\ index\ of\ in\ array\r\n\ @return\ \ index\ of\ target\ in\ a\r\n
+comment5.params=filename
+comment5.target=java.lang.String\ decrypt(java.lang.String)
+comment5.text=\r\n\ work\ to\ decrypt\ cipher\ and\ find\ key\r\n
+comment6.params=
+comment6.target=double[]\ getAvgFreq()
+comment6.text=\r\n\ get\ average\ frequency\ array\r\n
+comment7.params=
+comment7.target=char[]\ getKey()
+comment7.text=\r\n\ get\ cipher\ key\r\n
+numComments=8

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BinItem
+comment0.text=\r\n\ Collection\ of\ items\ in\ bin\r\n\r\n\ @author\ K.\ Laurie\r\n\ @version\ 3/18/2020\r\n
+comment1.params=SKU\ quantity
+comment1.target=BinItem(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BinItem\r\n
+comment2.params=
+comment2.target=java.lang.String\ getSKU()
+comment2.text=\r\n\ An\ accessor\ method\ -\ get\ SKU\ number\r\n\r\n\ @return\ \ \ \ SKU\ Number\r\n
+comment3.params=
+comment3.target=int\ getQuantity()
+comment3.text=\r\n\ An\ accessor\ method\ -\ get\ quantity\r\n\r\n\ @return\ \ \ \ quantity\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ get\ bin\ information\ in\ human\ friendly\ way\r\n\ \r\n\ @return\ sku\ number\ and\ quantity\ together\r\n
+numComments=5

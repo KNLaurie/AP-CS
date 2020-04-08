@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=LaurieCipher
+comment1.params=
+comment1.target=java.util.ArrayList\ generateAlphabet()
+comment1.text=\r\n\ generate\ cipher\ alphabet\r\n\ \r\n\ @return\ \ \ new\ cipher\ aalphabet\r\n
+comment2.params=in
+comment2.target=java.lang.String\ encrypt(java.lang.String)
+comment2.text=\r\nEncrypt\ message\ using\ Laurie\ Cipher\r\n\r\n\ @param\ \ in\ \ \ \ \ English\ meassage\r\n\ @param\ \ shift\ \ How\ many\ positions\ letters\ in\ message\ will\ be\ shifted\ to\ the\ right\r\n\ @return\ \ \ \ \ \ \ \ Encrypted\ version\ of\ in\r\n
+comment3.params=in
+comment3.target=java.lang.String\ decrypt(java.lang.String)
+comment3.text=\r\nDecrypt\ message\ using\ Laurie\ Cipher\r\n\r\n\ @param\ \ in\ \ \ \ \ Encrypted\ message\r\n\ @param\ \ shift\ \ How\ many\ positions\ letters\ in\ message\ that\ were\ shifted\ to\ the\ right\r\n\ @return\ \ \ \ \ \ \ \ Decrypted\ version\ of\ in\r\n
+comment4.params=a\ target
+comment4.target=int\ find(java.util.ArrayList,\ int)
+comment4.text=\r\n\ find\ index\ of\ character\r\n\ \r\n\ @param\ \ \ a\ \ \ \ \ \ \ \ array\ to\ search\ for\ match\r\n\ @param\ \ \ target\ \ \ item\ to\ find\ index\ of\ in\ array\r\n\ @return\ \ index\ of\ target\ in\ a\r\n
+comment5.params=a\ target
+comment5.target=int\ findAlpha(char[],\ int)
+comment5.text=\r\n\ find\ index\ of\ character\r\n\ \r\n\ @param\ \ \ a\ \ \ \ \ \ \ \ array\ to\ search\ for\ match\r\n\ @param\ \ \ target\ \ \ item\ to\ find\ index\ of\ in\ array\r\n\ @return\ \ index\ of\ target\ in\ a\r\n
+numComments=6
