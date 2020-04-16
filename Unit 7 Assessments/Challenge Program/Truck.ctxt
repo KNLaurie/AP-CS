@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Truck
+comment0.text=\r\n\ Vehicle\ containing\ properties\ of\ a\ truck\r\n\r\n\ @author\ K.\ Laurie\r\n\ @version\ 4/8/2020\r\n
+comment1.params=name\ cost
+comment1.target=Truck(java.lang.String,\ double)
+numComments=2

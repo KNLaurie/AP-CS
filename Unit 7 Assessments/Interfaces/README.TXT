@@ -1,0 +1,1 @@
+- At first I wasasnt able to access the objects' methods. But I realized it was because the arraylist didnt declare its object type in the initialization

@@ -1,0 +1,1 @@
++ abstract classes seem really helpful and make things more organize, I'm excited to see what I can create with them

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MyMath
+comment0.text=\r\n\ Math\ homework\ assignment\r\n\r\n\ @author\ K.\ Laurie\r\n\ @version\ 4/2/2020\r\n
+comment1.params=
+comment1.target=MyMath()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyMath\r\n
+comment2.params=p
+comment2.target=void\ createAssignment(int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

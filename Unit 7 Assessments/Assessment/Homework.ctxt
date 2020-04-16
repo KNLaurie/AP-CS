@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Homework
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Homework\ here.\r\n\r\n\ @author\ K.\ Laurie\r\n\ @version\ 4/2/2020\r\n
+comment1.params=
+comment1.target=Homework()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Homework\r\n
+comment2.params=read
+comment2.target=void\ setRead(int)
+comment2.text=\r\n\ Set\ number\ of\ pages\ to\ read\r\n\r\n\ @param\ \ read\ \ \ number\ of\ pages\ read\r\n
+comment3.params=
+comment3.target=int\ getRead()
+comment3.text=\r\n\ get\ the\ number\ of\ pages\ to\ read\r\n\ \r\n\ @return\ number\ of\ pages\ read\r\n
+comment4.params=type
+comment4.target=void\ setType(java.lang.String)
+comment4.text=\r\n\ Set\ type\ of\ homework\r\n\r\n\ @param\ \ type\ \ string\ containing\ homework\ type\r\n
+comment5.params=
+comment5.target=java.lang.String\ getType()
+comment5.text=\r\n\ get\ the\ type\ of\ homework\r\n\ \r\n\ @return\ type\ of\ homework\r\n
+comment6.params=p
+comment6.target=void\ createAssignment(int)
+numComments=7

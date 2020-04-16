@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=InventoryDemo
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=l\ name
+comment2.target=void\ takeInventory(java.util.List,\ java.lang.String)
+comment2.text=\r\n\ print\ item\ name,\ quantity,\ and\ total\ cost\r\n\ \r\n\ @parameter\ l\ list\ to\ iterate\ through\r\n\ @parameter\ \ \ name\ \ \ name\ of\ pruduct\ to\ take\ invenotry\ of\r\n
+numComments=3

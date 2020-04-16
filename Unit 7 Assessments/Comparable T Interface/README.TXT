@@ -1,0 +1,1 @@
++ I really like the compare to interface and can see why it is so useful

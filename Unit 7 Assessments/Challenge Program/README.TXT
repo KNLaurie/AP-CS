@@ -1,0 +1,1 @@
+-Im not sure if main will run with the other static method I cant remember if thats how it needed to be done
